@@ -7,13 +7,13 @@ Análisis de 64,651 transacciones del caso de corrupción de las Tarjetas Black 
 ## Dataset
 
 **Fuente:** 
-● Dataset Github:
+- Dataset Github:
 https://github.com/rafadelascuevas/limpieza-analisis-basico/tree/master/datasets/
 hoja_calculo_tarjetas_black/03_csv_para_limpiar
-● Audiencia Nacional. (2017). Sentencia del Caso Tarjetas Black - Procedimiento
+- Audiencia Nacional. (2017). Sentencia del Caso Tarjetas Black - Procedimiento
 Abreviado
-● 63/2013. Tribunal Penal, Sección Segunda. Madrid, España.
-● El País. (2014-2017). Especial: El Caso de las Tarjetas Black:
+- 63/2013. Tribunal Penal, Sección Segunda. Madrid, España.
+- El País. (2014-2017). Especial: El Caso de las Tarjetas Black:
 https://elpais.com/especiales/2014/tarjetas-opacas-caja-madrid/
 
 **Características:**
