@@ -44,7 +44,7 @@ Este proyecto fue desarrollado en Databricks Free Edition. Para replicar:
 1. Crear cuenta en Databricks Community Edition
 2. Importar notebooks desde carpeta `notebooks/`
 3. Configurar Unity Catalog con catálogo `workspace` y schema `transactions`
-4. Subir dataset CSV a Volume en Unity Catalog
+4. Subir dataset CSV a Volume en Unity Catalog (datasets/DatasetTP7.csv)
 5. Ejecutar notebook `TP_Transacciones_Databricks.ipynb`
 
 ---
