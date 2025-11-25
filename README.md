@@ -49,4 +49,6 @@ Este proyecto fue desarrollado en Databricks Free Edition. Para replicar:
 
 ---
 
-**Nota:** Este análisis fue realizado exclusivamente con fines educativos en el contexto de la asignatura "Análisis de Datos en la Nube" del ITU - Universidad Nacional de Cuyo.
+## Autor
+Saldeña, Silva, Chavez, Moya - Estudiantes de Desarrollo de Software
+ITU - Universidad Nacional de Cuyo
